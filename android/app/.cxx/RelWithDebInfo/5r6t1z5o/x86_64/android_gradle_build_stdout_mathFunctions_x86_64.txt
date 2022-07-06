@@ -1,0 +1,2 @@
+ninja: Entering directory `/home/texs/Documents/Paulonia/ffi_test/android/app/.cxx/RelWithDebInfo/5r6t1z5o/x86_64'
+ninja: no work to do.

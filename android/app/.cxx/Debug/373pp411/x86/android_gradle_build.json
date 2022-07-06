@@ -1,0 +1,38 @@
+{
+  "buildFiles": [
+    "/home/texs/Documents/Paulonia/ffi_test/android/app/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/home/texs/Android/Sdk/cmake/3.18.1/bin/ninja",
+      "-C",
+      "/home/texs/Documents/Paulonia/ffi_test/android/app/.cxx/Debug/373pp411/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/home/texs/Android/Sdk/cmake/3.18.1/bin/ninja",
+    "-C",
+    "/home/texs/Documents/Paulonia/ffi_test/android/app/.cxx/Debug/373pp411/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "mathFunctions::@6890427a1f51a3e7e1df": {
+      "toolchain": "toolchain",
+      "abi": "x86",
+      "artifactName": "mathFunctions",
+      "output": "/home/texs/Documents/Paulonia/ffi_test/build/app/intermediates/cxx/Debug/373pp411/obj/x86/libmathFunctions.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "/home/texs/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/bin/clang",
+      "cppCompilerExecutable": "/home/texs/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++"
+    }
+  },
+  "cFileExtensions": [
+    "c"
+  ],
+  "cppFileExtensions": []
+}

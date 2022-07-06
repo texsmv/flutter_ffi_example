@@ -1,0 +1,3 @@
+/home/texs/Documents/Paulonia/ffi_test/android/app/.cxx/RelWithDebInfo/5r6t1z5o/x86/CMakeFiles/rebuild_cache.dir
+/home/texs/Documents/Paulonia/ffi_test/android/app/.cxx/RelWithDebInfo/5r6t1z5o/x86/CMakeFiles/edit_cache.dir
+/home/texs/Documents/Paulonia/ffi_test/android/app/.cxx/RelWithDebInfo/5r6t1z5o/x86/CMakeFiles/mathFunctions.dir

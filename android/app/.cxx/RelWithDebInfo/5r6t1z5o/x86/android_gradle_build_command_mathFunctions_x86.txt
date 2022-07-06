@@ -1,0 +1,7 @@
+Executable : /home/texs/Android/Sdk/cmake/3.18.1/bin/ninja
+arguments : 
+-C
+/home/texs/Documents/Paulonia/ffi_test/android/app/.cxx/RelWithDebInfo/5r6t1z5o/x86
+mathFunctions
+jvmArgs : 
+

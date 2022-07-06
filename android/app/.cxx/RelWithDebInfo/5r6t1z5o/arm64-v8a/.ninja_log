@@ -1,0 +1,3 @@
+# ninja log v5
+0	56	1657129448	CMakeFiles/mathFunctions.dir/home/texs/Documents/Paulonia/ffi_test/native/math_functions.c.o	2e25f36d5b76985e
+56	73	1657129448	/home/texs/Documents/Paulonia/ffi_test/build/app/intermediates/cxx/RelWithDebInfo/5r6t1z5o/obj/arm64-v8a/libmathFunctions.so	31c1caaa253cf03e

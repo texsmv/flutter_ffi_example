@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/texs/Documents/Paulonia/ffi_test/android/app/.cxx/Debug/373pp411/armeabi-v7a",
+  "command": "/home/texs/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=armv7-none-linux-androideabi16 --gcc-toolchain=/home/texs/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/texs/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/sysroot -DmathFunctions_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC -o CMakeFiles/mathFunctions.dir/home/texs/Documents/Paulonia/ffi_test/native/math_functions.c.o -c /home/texs/Documents/Paulonia/ffi_test/native/math_functions.c",
+  "file": "/home/texs/Documents/Paulonia/ffi_test/native/math_functions.c"
+}
+]

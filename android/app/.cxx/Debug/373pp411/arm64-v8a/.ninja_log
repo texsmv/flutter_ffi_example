@@ -1,0 +1,11 @@
+# ninja log v5
+1	19	1657113964	CMakeFiles/math_func.dir/home/texs/Documents/Paulonia/ffi_test/native/add.c.o	4c9f07bd9fec1d10
+19	38	1657113964	/home/texs/Documents/Paulonia/ffi_test/build/app/intermediates/cxx/Debug/373pp411/obj/arm64-v8a/libmath_func.so	91238879c16ba26c
+0	228	1657114319	CMakeFiles/libadd.dir/home/texs/Documents/Paulonia/ffi_test/native/add.c.o	b3fbf2c963f76ed0
+230	261	1657114319	/home/texs/Documents/Paulonia/ffi_test/build/app/intermediates/cxx/Debug/373pp411/obj/arm64-v8a/liblibadd.so	877f0dde89772343
+0	57	1657114546	CMakeFiles/add.dir/home/texs/Documents/Paulonia/ffi_test/native/add.c.o	f0b4a0cbcd66d926
+57	81	1657114546	/home/texs/Documents/Paulonia/ffi_test/build/app/intermediates/cxx/Debug/373pp411/obj/arm64-v8a/libadd.so	53981914efbb2baa
+0	77	1657120899	CMakeFiles/mathFunctions.dir/home/texs/Documents/Paulonia/ffi_test/native/math_functions.c.o	29422c6d358b5d15
+77	101	1657120899	/home/texs/Documents/Paulonia/ffi_test/build/app/intermediates/cxx/Debug/373pp411/obj/arm64-v8a/libmathFunctions.so	ed0db598b897244c
+0	53	1657123552	CMakeFiles/mathFunctions.dir/home/texs/Documents/Paulonia/ffi_test/native/math_functions.c.o	29422c6d358b5d15
+53	81	1657123552	/home/texs/Documents/Paulonia/ffi_test/build/app/intermediates/cxx/Debug/373pp411/obj/arm64-v8a/libmathFunctions.so	ed0db598b897244c
